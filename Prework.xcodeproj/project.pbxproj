@@ -103,6 +103,7 @@
 				189FD3D32607FE6600F9FC6F /* SceneDelegate.swift */,
 				189FD3D52607FE6600F9FC6F /* ViewController.swift */,
 				189FD3D72607FE6600F9FC6F /* Main.storyboard */,
+				189FD413260892E800F9FC6F /* Main.storyboard */,
 				189FD3DA2607FE6700F9FC6F /* Assets.xcassets */,
 				189FD3DC2607FE6700F9FC6F /* LaunchScreen.storyboard */,
 				189FD3DF2607FE6700F9FC6F /* Info.plist */,
@@ -310,6 +311,13 @@
 				189FD3DD2607FE6700F9FC6F /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		189FD413260892E800F9FC6F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
